@@ -1,4 +1,3 @@
 # dice
-simple console diceroller WIP
-
-it doesn't work..... yet
+simple console dice roller WIP
+changing the settings does not work.
